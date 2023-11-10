@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Easybar**
 
-- 🌱 I’m currently learning **Next.Js, GoLang**
+- 🌱 I’m currently learning **Next.Js, Devops**
 
 - 📫 How to reach me **sameernaveed37@gmail.com**
 
