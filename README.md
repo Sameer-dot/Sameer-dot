@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Easybar**
+- 🔭 I’m currently working on **MyBizFinder**
 
 - 🌱 I’m currently learning **Next.Js, Devops**
 
