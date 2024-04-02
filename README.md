@@ -1,8 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](linktr.ee/m_sameer)
+[![MasterHead]([https://rishavchanda.io/](https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064))](linktr.ee/m_sameer)
 <h1 align="center">Hi 👋, I'm Sameer</h1>
 <h3 align="center">Lad with a million dreams🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1urfArbTthgCkKfpJZFAnX&ust=1712148446410000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC1157Io4UDFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1urfArbTthgCkKfpJZFAnX&ust=1712148446410000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC1157Io4UDFQAAAAAdAAAAABAJ](https://private-user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIwNjI2MDksIm5iZiI6MTcxMjA2MjMwOSwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MjQtYjNmZWYyZGItZTY3MS00NjEwLWJiODQtMWQ2NTUzM2RjNWZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDAyVDEyNTE0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlODUwZmZmMTU3NTM1NzkzNTk3ZDdjMDNhYjNmMzZjZDQxNDlhMzJiNGEyYWNlOGUwODBlYzk1OTdlMTgwOGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.EZBuW5BXBVWIjjLrF9zoFidMsJf3CILqJINfB06SYgI)">
 
 
 
