@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MyBizFinder**
 
-- 🌱 I’m currently learning **Next.Js, Devops**
+- 🌱 I’m currently learning **Go, Solidity**
 
 - 📫 How to reach me **sameernaveed37@gmail.com**
 
