@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **MyBizFinder**
+- 🔭 I’m currently working on **itsongo.com**
 
 - 🌱 I’m currently learning **Go, Solidity**
 
