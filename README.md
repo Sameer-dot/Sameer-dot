@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **itsongo.com**
+- 🔭 I’m currently working on **https://go-agents.io/**
 
-- 🌱 I’m currently learning **Go, Solidity**
+- 🌱 I’m currently learning **Devops (Kafka, AWS Services)**
 
 - 📫 How to reach me **sameernaveed37@gmail.com**
 
